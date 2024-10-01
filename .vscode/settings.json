@@ -1,0 +1,4 @@
+{
+    "java.compile.nullAnalysis.mode": "automatic",
+    "cmake.sourceDirectory": "C:/xampp/htdocs/food_delivery_flutter/windows/runner"
+}

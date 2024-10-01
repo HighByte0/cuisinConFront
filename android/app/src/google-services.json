@@ -1,0 +1,30 @@
+{
+    "project_info": {
+      "project_number": "287463701872",
+      "project_id": "cuisinconnect",
+      "storage_bucket": "cuisinconnect.appspot.com"
+    },
+    "client": [
+      {
+        "client_info": {
+          "mobilesdk_app_id": "1:287463701872:android:08f59b9cb87bf371db23b5",
+          "android_client_info": {
+            "package_name": "com.food_delivery_flutter"
+          }
+        },
+        "oauth_client": [],
+        "api_key": [
+          {
+            "current_key": "AIzaSyCNQzuukokP6I8jrybJTM2M3caPagia-sI"
+          }
+        ],
+        "services": {
+          "appinvite_service": {
+            "other_platform_oauth_client": []
+          }
+        }
+      }
+    ],
+    "configuration_version": "1"
+  }
+  
